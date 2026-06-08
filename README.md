@@ -154,8 +154,6 @@ Currently building **Sych-Tech** — an independent mobile app studio focused on
 
 ---
 
-## 📊 GitHub stats
-
 <div align="center">
 
 <img src="./assets/2.png" />
@@ -163,8 +161,6 @@ Currently building **Sych-Tech** — an independent mobile app studio focused on
 <img src="./assets/3.png" />
 
 <br />
-
-<img src="https://streak-stats.demolab.com?user=Sych-1337&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=E5E7EB" />
 
 </div>
 
