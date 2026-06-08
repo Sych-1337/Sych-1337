@@ -181,13 +181,13 @@ Visit: https://sych-tech.com/products
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nozerrr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C026D3&text_color=E5E7EB" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sych-1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C026D3&text_color=E5E7EB" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozerrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sych-1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=nozerrr&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=E5E7EB" />
+<img src="https://streak-stats.demolab.com?user=Sych-1337&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=E5E7EB" />
 
 </div>
 
