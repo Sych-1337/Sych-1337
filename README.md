@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/1.jpg" />
+<img src="./assets/1.png" />
 
 <br />
 
@@ -158,9 +158,9 @@ Currently building **Sych-Tech** — an independent mobile app studio focused on
 
 <div align="center">
 
-<img src="./assets/2.jpg" />
+<img src="./assets/2.png" />
 
-<img src="./assets/3.jpg" />
+<img src="./assets/3.png" />
 
 <br />
 
