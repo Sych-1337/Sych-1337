@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:C026D3,100:2563EB&height=220&section=header&text=Nazar%20Kuzenko&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Mobile%20Developer%20%7C%20Flutter%20%26%20Kotlin%20%7C%20AI%20Apps%20Builder&descAlignY=58&descSize=18" />
+<img src="./assets/1.jpg" />
 
 <br />
 
@@ -158,9 +158,9 @@ Currently building **Sych-Tech** — an independent mobile app studio focused on
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sych-1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=C026D3&text_color=E5E7EB&cache_seconds=86400" />
+<img src="./assets/2.jpg" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sych-1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB&cache_seconds=86400" />
+<img src="./assets/3.jpg" />
 
 <br />
 
